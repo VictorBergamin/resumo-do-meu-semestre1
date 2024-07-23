@@ -1,0 +1,85 @@
+/* Formatação Padrão de Página */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Cabeçalho */
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Conteúdo Principal */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Seções */
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+/* Formatação Padrão de Texto */
+p {
+    margin: 0;
+    text-align: justify;
+    text-indent: 40px;
+    margin-bottom: 0;
+    padding-bottom: 0px;
+
+}
+
+/* Formatação Padrão de Imagens */
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+/* Rodapé */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+}
+
+p1 {
+    text-align: justify;
+    font-size: small;
+    margin: 20px;
+}
